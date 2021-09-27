@@ -1,3 +1,8 @@
+body {
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#fff1eb), to(#ace0f9));
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+
 .oval-thought-border-right, .oval-thought-border-left {
   width: 500px;
   position: relative;
